@@ -1,0 +1,21 @@
+{
+  "name": "deploy-web",
+  "version": "1.0.0",
+  "main": "deploy-web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deploy",
+    "web",
+    "firebase"
+  ],
+  "author": "PatharaNor",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.9.1",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
